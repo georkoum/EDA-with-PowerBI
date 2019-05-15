@@ -1,7 +1,7 @@
 import pandas as pd
 
 #reading the data file
-dataset = pd.read_csv(" path/to_file")
+dataset = pd.read_csv("path/to_file")
 
 # check the columns of the dataset
 dataset.columns
